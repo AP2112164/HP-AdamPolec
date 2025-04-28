@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3787246301
+    locked: 0
+  - name: WalkInFront
+    uniqueID: 1153855133
+    locked: 0
+  - name: Collision
+    uniqueID: 839576721
+    locked: 0
+  - name: Player
+    uniqueID: 1642952925
+    locked: 0
+  - name: NPC
+    uniqueID: 1165245067
+    locked: 0
+  - name: WalkBehind
+    uniqueID: 2099429601
+    locked: 0
+  - name: WalkUnder
+    uniqueID: 1342272715
+    locked: 0
