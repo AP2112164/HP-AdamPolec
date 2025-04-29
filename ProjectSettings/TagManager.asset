@@ -54,12 +54,12 @@ TagManager:
   - name: Player
     uniqueID: 1642952925
     locked: 0
-  - name: NPC
-    uniqueID: 1165245067
-    locked: 0
   - name: WalkBehind
     uniqueID: 2099429601
     locked: 0
   - name: WalkUnder
     uniqueID: 1342272715
+    locked: 0
+  - name: NPC
+    uniqueID: 1165245067
     locked: 0
